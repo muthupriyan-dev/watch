@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  background: #111;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  text-align: center;
+  padding: 30px;
+}
+
+.box {
+  background: #222;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px auto 30px;
+  max-width: 400px;
+}
+
+.display {
+  font-family: monospace;
+  font-size: 48px;
+  color: #00ff88;
+  margin: 10px 0;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ccc;
+}
